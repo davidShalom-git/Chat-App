@@ -32,6 +32,6 @@ if(process.env.NODE_ENV === 'production'){
 }
 
 server.listen(PORT, () => {
-    console.log("Naan Vera Meri...");
+    console.log("Server Started...");
     connectDB();
 });
