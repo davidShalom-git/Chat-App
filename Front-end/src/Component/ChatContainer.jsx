@@ -70,6 +70,6 @@ const ChatContainer = () => {
       <MessageInput />
     </div>
   );
-};
+}
 
 export default ChatContainer;
