@@ -31,7 +31,7 @@ const ChatContainer = () => {
       <MessageSkeleton />
       <MessageInput />
     </div>
-  );
+  )
 
   return (
     <div className='flex-1 flex flex-col overflow-auto'>
